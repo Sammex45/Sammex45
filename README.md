@@ -1,13 +1,13 @@
 
 # Hi 👋, I'm Samuel Thomas
 
-I'm a Frontend Web Developer/UI designer.....
+I'm a Technical Writer, Docs Engineer, and Web Developer/cloud Enthusiast.....
 ## 🚀 About Me
-I'm a Tech Enthusiast passionate about using my skills to develop software that provides digital solution.
+I'm a tech enthusiast who is passionate about using my skills to develop software that provides digital solutions.
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, React.js, Boostrap, Sass, Figma...
+Javascript, HTML, CSS, React.js, Boostrap, Sass, Cloud(AWS), Node.js, Docker, Figma...
 
 
 ## Authors
