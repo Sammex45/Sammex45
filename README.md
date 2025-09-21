@@ -1,7 +1,7 @@
 
 # Hi 👋, I'm Samuel Thomas
 
-I'm a Technical Writer, Docs Engineer, and Web Developer/cloud Enthusiast.....
+I'm a Technical Writer, Docs Engineer, and Cloud Enthusiast.....
 ## 🚀 About Me
 I'm a tech enthusiast who is passionate about using my skills to develop software that provides digital solutions.
 
